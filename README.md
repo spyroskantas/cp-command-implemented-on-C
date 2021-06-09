@@ -1,5 +1,7 @@
 # cp-command-implemented-on-C
 
+copies the files from source directory to destination directory
+
 usage: -flag source-dir dest-dir
 
 flags:
