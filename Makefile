@@ -1,6 +1,6 @@
-all: quic
+all: fcp
 
-quic: quic.c
-	gcc quic.c copyFunctions.c removeFunctions.c minsc.c -o quic
+quic: fcp.c
+	gcc fcp.c copyFunctions.c removeFunctions.c minsc.c -o fcp
 clean:
-	rm -f quic *.o
+	rm -f fcp *.o
