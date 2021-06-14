@@ -8,7 +8,7 @@ int main(int argc, char** argv){
 	clock_t begin, end;
 	
 	if(argc < 3){
-		puts("usage: source-dir dest-dir");
+		puts("usage: ./fcp -flag source-dir dest-dir");
 		exit(-1);
 	}
 	src = malloc(sizeof(argv[argc-2]));
