@@ -2,7 +2,7 @@
 
 Copies the files from source directory to destination directory
 
-usage: -flag source-dir dest-dir
+usage: fcp -flag source-dir dest-dir
 
 flags:
 
