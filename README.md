@@ -8,6 +8,6 @@ flags:
 
   -v output transfer info like time bytes copied and speed
   
-  -d delete dest-dir files that source dir has not
+  -d delete dest-dir files that source-dir has not
   
   -l list files copied
